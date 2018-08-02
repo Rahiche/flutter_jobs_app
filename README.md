@@ -24,6 +24,9 @@
   <img src="https://i.imgur.com/sWkXRne.gif?raw=true" width="200px">
 
 
+<img src="https://raw.githubusercontent.com/letsar/flutter_staggered_grid_view/master/doc/images/dynamic_tile_sizes.gif" width="200"/>
+
+
 
 
 ## Getting Started

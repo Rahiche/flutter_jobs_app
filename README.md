@@ -19,13 +19,6 @@
  
 # gif
 
-  ![Sample Gif](https://i.imgur.com/sWkXRne.gif)
-
-+<img src="flutter_jobs_app/full.gif" width="200px">
-
-
-
-
 <img src="https://github.com/Rahiche/flutter_jobs_app/blob/master/full.gif?raw=true" width="200"/>
 
 

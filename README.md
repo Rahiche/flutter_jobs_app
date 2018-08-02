@@ -19,9 +19,9 @@
  
 # gif
 
-  -![Sample Gif](https://i.imgur.com/sWkXRne.gif)
+  ![Sample Gif](https://i.imgur.com/sWkXRne.gif)
 
-  +<img src="/art/sample.gif?raw=true" width="200px">
+  <img src="https://i.imgur.com/sWkXRne.gif?raw=true" width="200px">
 
 
 

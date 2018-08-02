@@ -8,7 +8,7 @@
  * Create Custom Drawer 
  * Show RefreshIndicator while Loading images 
  
-#Screenshots
+# Screenshots
 
 
 | Job Board        | Job Detail           | CutsomDrawer  |
@@ -16,6 +16,9 @@
 |![s](https://i.imgur.com/y2VFwVj.png)    | ![s](https://i.imgur.com/3E4HUgT.png) | ![a](https://i.imgur.com/dTSdfTc.png) |
 
  
+ 
+# gif
+[Imgur](https://i.imgur.com/sWkXRne.gifv)
 
 ## Getting Started
 

@@ -18,9 +18,9 @@
  
  
 # gif
-<blockquote class="imgur-embed-pub" lang="en" data-id="sWkXRne"><a href="//imgur.com/sWkXRne">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ![Imgur](https://i.imgur.com/sWkXRne.gif)
+
 
 ## Getting Started
 

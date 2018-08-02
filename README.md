@@ -26,7 +26,7 @@
 
 
 
-<img src="flutter_jobs_app/full.gif" width="200"/>
+<img src="https://github.com/Rahiche/flutter_jobs_app/blob/master/full.gif?raw=true" width="200"/>
 
 
 

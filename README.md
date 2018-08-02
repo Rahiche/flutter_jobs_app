@@ -18,7 +18,7 @@
  
  
 # gif
-[Imgur](https://i.imgur.com/sWkXRne.gifv)
+![Imgur](https://i.imgur.com/sWkXRne.gifv)
 
 ## Getting Started
 

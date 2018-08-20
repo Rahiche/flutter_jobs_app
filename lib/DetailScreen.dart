@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_jobs/utils/Colors.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter_jobs/Job.dart';
 import 'package:flutter_jobs/Company.dart';
@@ -107,7 +108,7 @@ class _DetailState extends State<Detail> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Container(
-          color: Color.fromRGBO(37, 52, 104, 1.0),
+          color: MyColors.bkColor,
           child: Stack(
             children: <Widget>[
               Material(
@@ -182,17 +183,7 @@ class _DetailState extends State<Detail> {
                                 ],
                               ),
                             ),
-//                            Expanded(
-//                              child: Column(
-//                                children: <Widget>[
-//                                  Icon(
-//                                    Icons.favorite,
-//                                    size: 50.0,
-//                                    color: Colors.pinkAccent,
-//                                  ),
-//                                ],
-//                              ),
-//                            ),
+
                             Expanded(
                               child: Column(
                                 children: <Widget>[

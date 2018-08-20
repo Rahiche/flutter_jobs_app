@@ -1,8 +1,7 @@
-import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_jobs/DetailScreen.dart';
-import 'package:flutter_jobs/main.dart';
+
 
 class CustomDrawer extends StatefulWidget {
   const CustomDrawer({
@@ -171,6 +170,7 @@ class CustomDrawerClipper extends CustomClipper<Path> {
   @override
   bool shouldReclip(CustomClipper<Path> oldClipper) => true;
 }
+
 class JobsAppTitle extends StatelessWidget {
   const JobsAppTitle({
     Key key,

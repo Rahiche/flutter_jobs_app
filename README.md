@@ -6,7 +6,9 @@
  * CustomPainter and CustomClipper 
  * Dismissible and RefreshIndicator 
  * Create Custom Drawer 
- * Show RefreshIndicator while Loading images 
+ * Show RefreshIndicator while Loading images
+ * Transition animation like ScaleTransition
+ * Keep widget alive and don't reload it all the time
 
 # Thank _You_!
 Please :star: this repo and share it with others

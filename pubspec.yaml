@@ -3,6 +3,8 @@ description: job board for flutter
 
 dependencies:
   url_launcher: ^3.0.3
+  http:
+  html:
   flutter:
     sdk: flutter
 
